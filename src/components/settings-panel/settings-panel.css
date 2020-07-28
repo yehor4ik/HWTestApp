@@ -1,0 +1,23 @@
+.settings-panels button {
+    margin: 10px;
+}
+
+.settings-panels {
+    font-size: 1rem;
+}
+
+.button-filter > h5, 
+.button-add-car > h5, 
+.add-form > h5 {
+    text-align: center;
+}
+
+.button-filter, 
+.button-add-car, 
+.add-form {
+    border: 2px solid  #6495ED;
+    color: #6495ED;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
